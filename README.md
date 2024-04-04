@@ -1,1 +1,15 @@
-# insights
+# Enabling.team Insights
+
+- [NextOps - что будет после DevOps](https://enabling.team/insights/nextops)
+- [DevOps as a movement](https://enabling.team/insights/devops-as-a-movement)
+- [Поиск дисфункций команд и их решения с Team Topologies](https://enabling.team/insights/team-dysfunctions-and-team-topologies)
+- [DevOps для CTO](https://enabling.team/insights/devops-for-cto)
+- [Team Topologies для тимлида](https://enabling.team/insights/team-topologies-for-teamleads)
+- [От DevOps к Platform Engineering](https://enabling.team/insights/from-devops-to-platform-engineering)
+- [Исследуем команды с помощью Team Topologies](https://enabling.team/insights/team-topologies-and-agile)
+- [Топологии платформенных команд](https://enabling.team/insights/team-topologies-for-platform-teams)
+- [Воркшоп по командным топологиям](https://enabling.team/insights/team-topologies-workshop)
+- [Запуск платформенных команд](https://enabling.team/insights/how-to-build-platform-engineering-teams)
+- [Состояние DevOps в России 2020](https://enabling.team/insights/state-of-devops-russia-2020)
+- [Платформенные команды Польза или вред?](https://enabling.team/insights/platform-teams-pros-and-cons)
+- [Как нарисовать DevOps](https://enabling.team/insights/how-to-draw-devops)
