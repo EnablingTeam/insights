@@ -1,5 +1,6 @@
 # Enabling.team Insights
 
+- [Обсуждение книги Accelerate](https://enabling.team/insights/accelerate-book)
 - [NextOps - что будет после DevOps](https://enabling.team/insights/nextops)
 - [DevOps as a movement](https://enabling.team/insights/devops-as-a-movement)
 - [Поиск дисфункций команд и их решения с Team Topologies](https://enabling.team/insights/team-dysfunctions-and-team-topologies)
