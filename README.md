@@ -4,6 +4,7 @@
 - [NextOps - что будет после DevOps](https://enabling.team/insights/nextops)
 - [DevOps as a movement](https://enabling.team/insights/devops-as-a-movement)
 - [Поиск дисфункций команд и их решения с Team Topologies](https://enabling.team/insights/team-dysfunctions-and-team-topologies)
+- [Обсуждение книги Technology Strategy Patterns](https://enabling.team/insights/technology-strategy-patterns-book)
 - [DevOps для CTO](https://enabling.team/insights/devops-for-cto)
 - [Team Topologies для тимлида](https://enabling.team/insights/team-topologies-for-teamleads)
 - [От DevOps к Platform Engineering](https://enabling.team/insights/from-devops-to-platform-engineering)
