@@ -1,5 +1,6 @@
 # Enabling.team Insights
 
+- [Обзор Technology Radar 30](https://enabling.team/insights/technology-radar-30)
 - [Обсуждение книги Accelerate](https://enabling.team/insights/accelerate-book)
 - [NextOps - что будет после DevOps](https://enabling.team/insights/nextops)
 - [DevOps as a movement](https://enabling.team/insights/devops-as-a-movement)
