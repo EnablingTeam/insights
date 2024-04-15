@@ -1,4 +1,4 @@
-# Enabling.team Insights
+# [Enabling.team Insights](https://enabling.team/insights)
 
 - [Обзор Technology Radar 30](https://enabling.team/insights/technology-radar-30)
 - [Обсуждение книги Accelerate](https://enabling.team/insights/accelerate-book)
