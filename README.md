@@ -29,3 +29,5 @@
 - [Состояние DevOps в России 2020](https://enabling.team/insights/state-of-devops-russia-2020)
 - [Платформенные команды Польза или вред?](https://enabling.team/insights/platform-teams-pros-and-cons)
 - [Как нарисовать DevOps](https://enabling.team/insights/how-to-draw-devops)
+
+Подписывайтесь на наш Telegram канал [Enabling.team Insights](https://t.me/enablingteam), чтобы оставаться в курсе технологических трендов.
