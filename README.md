@@ -27,9 +27,13 @@
 - [Топологии платформенных команд](https://enabling.team/insights/team-topologies-for-platform-teams)
 - [Воркшоп по командным топологиям](https://enabling.team/insights/team-topologies-workshop)
 - [Запуск платформенных команд](https://enabling.team/insights/how-to-build-platform-engineering-teams)
+- [Continuous Integration как практика](https://enabling.team/insights/continuous-integration-as-practice)
 - [Состояние DevOps в России 2020](https://enabling.team/insights/state-of-devops-russia-2020)
 - [Платформенные команды Польза или вред?](https://enabling.team/insights/platform-teams-pros-and-cons)
 - [Как нарисовать DevOps](https://enabling.team/insights/how-to-draw-devops)
+- [Применение практик Тиаго Форте для управления знаниями](https://enabling.team/insights/practices-for-knowledge-management)
+- [Состояние Continuous Delivery в 2019 году](https://enabling.team/insights/continuous-delivery-2019)
+- [Почему Trunk-Based Development — лучшая модель ветвления](https://enabling.team/insights/trunk-based-development-2018)
 - [Как начать DevOps-трансформацию](https://enabling.team/insights/how-to-start-devops-transformation)
 
 Подписывайтесь на наш Telegram канал [Enabling.team Insights](https://t.me/enablingteam), чтобы оставаться в курсе технологических трендов.
