@@ -37,5 +37,6 @@
 - [Состояние Continuous Delivery в 2019 году](https://enabling.team/insights/continuous-delivery-2019)
 - [Почему Trunk-Based Development — лучшая модель ветвления](https://enabling.team/insights/trunk-based-development-2018)
 - [Как начать DevOps-трансформацию](https://enabling.team/insights/how-to-start-devops-transformation)
+- [Состояние DevOps и SRE в 2018 году](https://enabling.team/insights/state-of-devops-and-sre-2018)
 
 Подписывайтесь на наш Telegram канал [Enabling.team Insights](https://t.me/enablingteam), чтобы оставаться в курсе технологических трендов.
