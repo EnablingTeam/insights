@@ -19,6 +19,7 @@
 - [Обзор VOID Report 2022](https://enabling.team/insights/void-report-2022)
 - [Обзор The Incident Benchmark Report](https://enabling.team/insights/incident-benchmark-report)
 - [Обсуждение книги Technology Strategy Patterns](https://enabling.team/insights/technology-strategy-patterns-book)
+- [Компетенции платформенной команды](https://enabling.team/insights/platform-team-competences)
 - [Обзор Accelerate State of DevOps 2022](https://enabling.team/insights/accelerate-state-of-devops-2022)
 - [DevOps для CTO](https://enabling.team/insights/devops-for-cto)
 - [Team Topologies для тимлида](https://enabling.team/insights/team-topologies-for-teamleads)
