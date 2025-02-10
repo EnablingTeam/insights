@@ -10,6 +10,7 @@
 - [Обзор State of CI/CD Report 2024](https://enabling.team/insights/state-of-cicd-2024)
 - [Обзор Technology Radar #30](https://enabling.team/insights/technology-radar-30)
 - [Обсуждение книги Accelerate](https://enabling.team/insights/accelerate-book)
+- [Обзор Observability Survey 2024](https://enabling.team/insights/observability-survey-2024)
 - [Обзор Puppet State of DevOps Report 2024](https://enabling.team/insights/puppet-state-of-devops-2024)
 - [NextOps - что будет после DevOps](https://enabling.team/insights/nextops)
 - [Обзор The SRE Report 2024](https://enabling.team/insights/sre-report-2024)
