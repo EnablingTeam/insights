@@ -1,5 +1,6 @@
 # [Enabling.team Insights](https://enabling.team/insights)
 
+- [Состояние инжиниринга на 2025 год](https://enabling.team/insights/state-of-engineering-2025)
 - [Обзор State of Platform Engineering 2024](https://enabling.team/insights/state-of-platform-engineering-2024)
 - [Запуск и развитие Enabling команд](https://enabling.team/insights/enabling-teams-discussion)
 - [Обзор Accelerate State of DevOps 2024](https://enabling.team/insights/accelerate-state-of-devops-2024)
