@@ -1,5 +1,6 @@
 # [Enabling.team Insights](https://enabling.team/insights)
 
+- [Технологический радар по наблюдаемости](https://enabling.team/insights/technology-radar-for-observability)
 - [Обзор Technology Radar #32](https://enabling.team/insights/technology-radar-32)
 - [Состояние инжиниринга на 2025 год](https://enabling.team/insights/state-of-engineering-2025)
 - [Обзор State of Platform Engineering 2024](https://enabling.team/insights/state-of-platform-engineering-2024)
