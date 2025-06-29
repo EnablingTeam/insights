@@ -1,5 +1,6 @@
 # [Enabling.team Insights](https://enabling.team/insights)
 
+- [Обзор Software Engineering Benchmarks Report 2025](https://enabling.team/insights/software-engineering-benchmarks-2025)
 - [Технологический радар по наблюдаемости](https://enabling.team/insights/technology-radar-for-observability)
 - [Обзор Technology Radar #32](https://enabling.team/insights/technology-radar-32)
 - [Состояние инжиниринга на 2025 год](https://enabling.team/insights/state-of-engineering-2025)
