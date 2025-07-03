@@ -9,6 +9,7 @@
 - [Обзор Accelerate State of DevOps 2024](https://enabling.team/insights/accelerate-state-of-devops-2024)
 - [Обзор Technology Radar #31](https://enabling.team/insights/technology-radar-31)
 - [Исследование направлений инжиниринга](https://enabling.team/insights/engineering-research-2024)
+- [Обзор State of Developer Experience 2024](https://enabling.team/insights/state-of-developer-experience-2024)
 - [Обзор State of Developer Experience Report 2024](https://enabling.team/insights/state-of-developer-experience-report-2024)
 - [Как стать 10х экспертом](https://enabling.team/insights/how-to-become-10x-expert)
 - [Обзор State of InnerSource 2024](https://enabling.team/insights/state-of-innersource-2024)
