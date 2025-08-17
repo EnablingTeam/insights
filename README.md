@@ -1,5 +1,5 @@
 # [Enabling.team Insights](https://enabling.team/insights)
-
+- [Обзор The State of Continuous Delivery in 2025](https://enabling.team/insights/state-of-continuous-delivery-in-2025)
 - [Обсуждение методологии и модели исследования DORA](https://enabling.team/insights/dora-research-and-methodology)
 - [Обзор Software Engineering Benchmarks Report 2025](https://enabling.team/insights/software-engineering-benchmarks-2025)
 - [Технологический радар по наблюдаемости](https://enabling.team/insights/technology-radar-for-observability)
