@@ -1,4 +1,5 @@
 # [Enabling.team Insights](https://enabling.team/insights)
+- [Обсуждение отчета Impact of Generative AI in Software Development](https://enabling.team/insights/impact-of-generative-ai-in-software-development)
 - [Обзор The State of Continuous Delivery in 2025](https://enabling.team/insights/state-of-continuous-delivery-in-2025)
 - [Обсуждение методологии и модели исследования DORA](https://enabling.team/insights/dora-research-and-methodology)
 - [Обзор Software Engineering Benchmarks Report 2025](https://enabling.team/insights/software-engineering-benchmarks-2025)
