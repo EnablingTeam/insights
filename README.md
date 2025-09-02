@@ -7,6 +7,7 @@
 - [Обзор The SRE Report 2025](https://enabling.team/insights/sre-report-2025)
 - [Обзор Technology Radar #32](https://enabling.team/insights/technology-radar-32)
 - [Состояние инжиниринга на 2025 год](https://enabling.team/insights/state-of-engineering-2025)
+- [Обзор The 2025 State of Software Delivery](https://enabling.team/insights/state-of-software-delivery-2025)
 - [Обзор Engineering Team Performance Report 2024](https://enabling.team/insights/engineering-team-performance-report-2024)
 - [Обзор State of Developer Productivity 2024](https://enabling.team/insights/state-of-developer-productivity-2024)
 - [Обзор State of Platform Engineering 2024](https://enabling.team/insights/state-of-platform-engineering-2024)
