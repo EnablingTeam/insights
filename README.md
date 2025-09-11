@@ -29,6 +29,7 @@
 - [Обзор Accelerate State of DevOps 2023](https://enabling.team/insights/accelerate-state-of-devops-2023)
 - [Обзор Technology Radar #29](https://enabling.team/insights/technology-radar-29)
 - [DevOps as a movement](https://enabling.team/insights/devops-as-a-movement)
+- [Обзор The ROI of DevOps Transformation](https://enabling.team/insights/roi-of-devops-transformation)
 - [Поиск дисфункций команд и их решения с Team Topologies](https://enabling.team/insights/team-dysfunctions-and-team-topologies)
 - [Обзор VOID Report 2022](https://enabling.team/insights/void-report-2022)
 - [Обзор The Incident Benchmark Report](https://enabling.team/insights/incident-benchmark-report)
