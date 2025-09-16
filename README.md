@@ -2,6 +2,7 @@
 - [Обсуждение отчета Impact of Generative AI in Software Development](https://enabling.team/insights/impact-of-generative-ai-in-software-development)
 - [Обзор The State of Continuous Delivery in 2025](https://enabling.team/insights/state-of-continuous-delivery-in-2025)
 - [Обсуждение методологии и модели исследования DORA](https://enabling.team/insights/dora-research-and-methodology)
+- [Обзор отчета InfoQ Culture and Methods Trends 2025](https://enabling.team/insights/culture-and-methods-trends-report-2025)
 - [Обзор Software Engineering Benchmarks Report 2025](https://enabling.team/insights/software-engineering-benchmarks-2025)
 - [Технологический радар по наблюдаемости](https://enabling.team/insights/technology-radar-for-observability)
 - [Обзор The SRE Report 2025](https://enabling.team/insights/sre-report-2025)
