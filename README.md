@@ -1,4 +1,5 @@
 # [Enabling.team Insights](https://enabling.team/insights)
+- [Обзор DORA Report 2025](https://enabling.team/insights/dora-report-2025)
 - [Обзор отчета InfoQ AI, ML and Data Engineering Trends 2025](https://enabling.team/insights/ai-ml-and-data-engineering-trends-report-2025)
 - [Обсуждение отчета Impact of Generative AI in Software Development](https://enabling.team/insights/impact-of-generative-ai-in-software-development)
 - [Обзор The State of Continuous Delivery in 2025](https://enabling.team/insights/state-of-continuous-delivery-in-2025)
@@ -22,6 +23,7 @@
 - [Обзор State of Developer Experience 2024](https://enabling.team/insights/state-of-developer-experience-2024)
 - [Обзор State of Developer Experience Report 2024](https://enabling.team/insights/state-of-developer-experience-report-2024)
 - [Как стать 10х экспертом](https://enabling.team/insights/how-to-become-10x-expert)
+- [Обзор Hype Cycle for Platform Engineering 2024](https://enabling.team/insights/hype-cycle-for-platform-engineering-2024)
 - [Обзор State of InnerSource 2024](https://enabling.team/insights/state-of-innersource-2024)
 - [Обзор State of CI/CD Report 2024](https://enabling.team/insights/state-of-cicd-2024)
 - [Обзор отчета InfoQ Culture and Methods Trends 2024](https://enabling.team/insights/culture-and-methods-trends-report-2024)
