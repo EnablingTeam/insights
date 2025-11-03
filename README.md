@@ -1,4 +1,5 @@
 # [Enabling.team Insights](https://enabling.team/insights)
+- [Обзор отчета InfoQ DevOps and Cloud Trends 2025](https://enabling.team/insights/devops-and-cloud-trends-report-2025)
 - [Обзор DORA Report 2025](https://enabling.team/insights/dora-report-2025)
 - [Обзор отчета InfoQ AI, ML and Data Engineering Trends 2025](https://enabling.team/insights/ai-ml-and-data-engineering-trends-report-2025)
 - [Обсуждение отчета Impact of Generative AI in Software Development](https://enabling.team/insights/impact-of-generative-ai-in-software-development)
