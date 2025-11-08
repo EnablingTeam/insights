@@ -23,6 +23,7 @@
 - [Исследование направлений инжиниринга](https://enabling.team/insights/engineering-research-2024)
 - [Обзор отчета InfoQ AI, ML and Data Engineering Trends 2024](https://enabling.team/insights/ai-ml-and-data-engineering-trends-report-2024)
 - [Обзор State of Developer Experience 2024](https://enabling.team/insights/state-of-developer-experience-2024)
+- [Обзор Hype Cycle for Agile and DevOps 2024](https://enabling.team/insights/hype-cycle-for-agile-and-devops-2024)
 - [Обзор State of Developer Experience Report 2024](https://enabling.team/insights/state-of-developer-experience-report-2024)
 - [Как стать 10х экспертом](https://enabling.team/insights/how-to-become-10x-expert)
 - [Обзор Hype Cycle for Platform Engineering 2024](https://enabling.team/insights/hype-cycle-for-platform-engineering-2024)
