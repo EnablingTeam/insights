@@ -10,6 +10,7 @@
 - [Обсуждение методологии и модели исследования DORA](https://enabling.team/insights/dora-research-and-methodology)
 - [Обзор Hype Cycle for Agile and DevOps 2025](https://enabling.team/insights/hype-cycle-for-agile-and-devops-2025)
 - [Обзор отчета InfoQ Culture and Methods Trends 2025](https://enabling.team/insights/culture-and-methods-trends-report-2025)
+- [Обзор DX Core 4](https://enabling.team/insights/dx-core-4-framework)
 - [Обзор Software Engineering Benchmarks Report 2025](https://enabling.team/insights/software-engineering-benchmarks-2025)
 - [Обзор Hype Cycle for Platform Engineering 2025](https://enabling.team/insights/hype-cycle-for-platform-engineering-2025)
 - [Технологический радар по наблюдаемости](https://enabling.team/insights/technology-radar-for-observability)
