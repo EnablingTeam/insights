@@ -1,4 +1,5 @@
 # [Enabling.team Insights](https://enabling.team/insights)
+- [Обзор State of Platform Engineering Report 2025](https://enabling.team/insights/state-of-platform-engineering-2025)
 - [Обзор State of Developer Experience Report 2025](https://enabling.team/insights/state-of-developer-experience-report-2025)
 - [Обзор CNCF Technology Radar for AI and ML 2025](https://enabling.team/insights/technology-radar-for-ai-and-ml-2025)
 - [Обзор Technology Radar #33](https://enabling.team/insights/technology-radar-33)
