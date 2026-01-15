@@ -1,4 +1,5 @@
 # [Enabling.team Insights](https://enabling.team/insights)
+- [Обзор Software Engineering Benchmarks Report 2026](https://enabling.team/insights/software-engineering-benchmarks-2026)
 - [Обзор State of Platform Engineering Report 2025](https://enabling.team/insights/state-of-platform-engineering-2025)
 - [Обзор State of InnerSource 2025](https://enabling.team/insights/state-of-innersource-2025)
 - [Обзор State of Developer Experience Report 2025](https://enabling.team/insights/state-of-developer-experience-report-2025)
