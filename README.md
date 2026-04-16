@@ -1,4 +1,6 @@
 # [Enabling.team Insights](https://enabling.team/insights)
+- [Обзор Technology Radar #34](https://enabling.team/insights/technology-radar-34)
+- [Технологический радар DevOpsConf 2026](https://enabling.team/insights/technology-radar-for-devopsconf-2026)
 - [Обзор The 2026 State of Software Delivery](https://enabling.team/insights/state-of-software-delivery-2026)
 - [Обзор State Of FinOps 2026](https://enabling.team/insights/state-of-finops-2026)
 - [Обзор The CNCF Annual Cloud Native Survey](https://enabling.team/insights/cncf-annual-cloud-native-survey-2025)
