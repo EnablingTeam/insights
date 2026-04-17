@@ -74,6 +74,7 @@
 - [Обзор отчета InfoQ Culture and Methods Trends 2024](https://enabling.team/insights/culture-and-methods-trends-report-2024)
 - [Обзор Technology Radar #30](https://enabling.team/insights/technology-radar-30)
 - [Обсуждение книги Accelerate](https://enabling.team/insights/accelerate-book)
+- [Обзор The State of Engineering Productivity 2024](https://enabling.team/insights/state-of-engineering-productivity-2024)
 - [Обзор Observability Survey 2024](https://enabling.team/insights/observability-survey-2024)
 - [Обзор Puppet State of DevOps Report 2024](https://enabling.team/insights/puppet-state-of-devops-2024)
 - [NextOps - что будет после DevOps](https://enabling.team/insights/nextops)
