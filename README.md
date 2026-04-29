@@ -1,4 +1,5 @@
 # [Enabling.team Insights](https://enabling.team/insights)
+- [Обзор Observability Survey 2026](https://enabling.team/insights/observability-survey-2026)
 - [Обзор Technology Radar #34](https://enabling.team/insights/technology-radar-34)
 - [Технологический радар DevOpsConf 2026](https://enabling.team/insights/technology-radar-for-devopsconf-2026)
 - [Обзор The State of DevOps Report 2026](https://enabling.team/insights/state-of-devops-report-2026)
