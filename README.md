@@ -120,8 +120,8 @@
 - [Обзор отчета InfoQ Culture and Methods Trends 2022](https://enabling.team/insights/culture-and-methods-trends-report-2022)
 - [Обсуждение книги Agile 2.0](https://enabling.team/insights/agile2-book)
 - [Топологии платформенных команд](https://enabling.team/insights/team-topologies-for-platform-teams)
-- [Воркшоп по командным топологиям](https://enabling.team/insights/team-topologies-workshop)
 - [Запуск платформенных команд](https://enabling.team/insights/how-to-build-platform-engineering-teams)
+- [Воркшоп по командным топологиям](https://enabling.team/insights/team-topologies-workshop)
 - [Continuous Integration как практика](https://enabling.team/insights/continuous-integration-as-practice)
 - [Состояние DevOps в России 2020](https://enabling.team/insights/state-of-devops-russia-2020)
 - [Платформенные команды Польза или вред?](https://enabling.team/insights/platform-teams-pros-and-cons)
@@ -129,11 +129,11 @@
 - [Обзор DevOps Topologies](https://enabling.team/insights/devops-topologies)
 - [Применение практик Тиаго Форте для управления знаниями](https://enabling.team/insights/practices-for-knowledge-management)
 - [Состояние Continuous Delivery в 2019 году](https://enabling.team/insights/continuous-delivery-2019)
+- [Современные подходы в разработке инфраструктурного кода](https://enabling.team/insights/modern-infrastructure-as-code)
 - [Почему Trunk-Based Development — лучшая модель ветвления](https://enabling.team/insights/trunk-based-development-2018)
 - [Инфраструктура как код](https://enabling.team/insights/infrastructure-as-code)
-- [Тестируем инфраструктуру как код](https://enabling.team/insights/testing-infrastructure-as-code)
-- [Современные подходы в разработке инфраструктурного кода](https://enabling.team/insights/modern-infrastructure-as-code)
 - [Как начать DevOps-трансформацию](https://enabling.team/insights/how-to-start-devops-transformation)
 - [Состояние DevOps и SRE в 2018 году](https://enabling.team/insights/state-of-devops-and-sre-2018)
+- [Тестирование инфраструктуры как код](https://enabling.team/insights/testing-infrastructure-as-code)
 
 Подписывайтесь на наш Telegram канал [Enabling.team Insights](https://t.me/enablingteam), чтобы оставаться в курсе технологических трендов.
