@@ -1,4 +1,6 @@
 # [Enabling.team Insights](https://enabling.team/insights)
+- [Oбзор отчета The Future of Software Engineering](https://enabling.team/insights/the-future-of-software-engineering)
+- [Обзор State of Engineering Management 2026](https://enabling.team/insights/state-of-engineering-management-2026)
 - [Обзор Observability Survey 2026](https://enabling.team/insights/observability-survey-2026)
 - [Обзор Technology Radar #34](https://enabling.team/insights/technology-radar-34)
 - [Технологический радар DevOpsConf 2026](https://enabling.team/insights/technology-radar-for-devopsconf-2026)
@@ -54,6 +56,7 @@
 - [Модель масштабирования InnerSource](https://enabling.team/insights/scaling-innersource)
 - [Обзор Engineering Team Performance Report 2024](https://enabling.team/insights/engineering-team-performance-report-2024)
 - [Обзор State of Software Architecture Report 2024](https://enabling.team/insights/state-of-software-architecture-report-2024)
+- [Обзор сравнения Platform и DevEx команд](https://enabling.team/insights/platform-vs-devex-teams)
 - [Обзор State of Developer Productivity 2024](https://enabling.team/insights/state-of-developer-productivity-2024)
 - [Обзор Stack Overflow Developer Survey 2024](https://enabling.team/insights/developer-survey-2024)
 - [Обзор State of Platform Engineering 2024](https://enabling.team/insights/state-of-platform-engineering-2024)
@@ -135,5 +138,6 @@
 - [Как начать DevOps-трансформацию](https://enabling.team/insights/how-to-start-devops-transformation)
 - [Состояние DevOps и SRE в 2018 году](https://enabling.team/insights/state-of-devops-and-sre-2018)
 - [Тестирование инфраструктуры как код](https://enabling.team/insights/testing-infrastructure-as-code)
+- [Обзор Software Developer Productivity Survey 2017](https://enabling.team/insights/software-developer-productivity-survey-2017)
 
 Подписывайтесь на наш Telegram канал [Enabling.team Insights](https://t.me/enablingteam), чтобы оставаться в курсе технологических трендов.
