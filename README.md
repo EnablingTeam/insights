@@ -1,4 +1,5 @@
 # [Enabling.team Insights](https://enabling.team/insights)
+- [Обзор отчета InfoQ Cloud and DevOps Trends 2026](https://enabling.team/insights/cloud-and-devops-trends-report-2026)
 - [Обзор отчета InfoQ Trends Culture and Methods 2026](https://enabling.team/insights/culture-and-methods-trends-report-2026)
 - [Обзор Magic Quadrant for Developer Productivity Insight Platforms](https://enabling.team/insights/magic-quadrant-for-developer-productivity-insight-platforms-2026)
 - [Oбзор отчета The Future of Software Engineering](https://enabling.team/insights/the-future-of-software-engineering)
